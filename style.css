@@ -99,7 +99,7 @@ h1 {
   height: calc(100% - 10px);
   left: 35px;
   top: 35px;
-  background-image: url(img/dots.svg);
+  background-image: url(dots.svg);
   background-size: 1rem;
   background-repeat: space;
   z-index: -1;
@@ -113,7 +113,7 @@ copy > * {
 }
 
 .compliments {
-  background-image: url(img/bg.svg);
+  background-image: url(bg.svg);
   background-size: cover;
   min-height: 100vh;
   display: flex;
